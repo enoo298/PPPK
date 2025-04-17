@@ -1,0 +1,66 @@
+﻿@model IEnumerable<PPPK_Enver_Besic.Models.MedicalRecord>
+
+@{
+    ViewData["Title"] = "Medicinska dokumentacija";
+}
+
+<div class="row mb-3">
+    <div class="col-md-12">
+        <a class="btn btn-primary" asp-controller="MedicalRecord" asp-action="Create">Dodaj medicinski zapis</a>
+    </div>
+</div>
+
+<div class="card">
+    <div class="card-header">
+        <h2 class="mb-0">Popis medicinskih zapisa</h2>
+    </div>
+    <div class="card-body p-0">
+        <table class="table table-striped table-bordered mb-0">
+            <thead class="thead-dark">
+                <tr>
+                    <th>Naziv bolesti</th>
+                    <th>Datum početka</th>
+                    <th>Datum završetka</th>
+                    <th>Pacijent</th>
+                    <th>Akcije</th>
+                </tr>
+            </thead>
+            <tbody>
+                @if (Model != null && Model.Any())
+                {
+                    foreach (var record in Model)
+                    {
+                        <tr>
+                            <td>@record.IllnessName</td>
+                            <td>@record.StartDate.ToShortDateString()</td>
+                            <td>@(record.EndDate.HasValue ? record.EndDate.Value.ToShortDateString() : "Aktivan")</td>
+                            <td>
+                                @(record.Patient != null ? record.Patient.FirstName + " " + record.Patient.LastName : "N/A")
+                            </td>
+                            <td>
+                                <a class="btn btn-sm btn-warning"
+                                   asp-controller="MedicalRecord"
+                                   asp-action="Edit"
+                                   asp-route-id="@record.Id">
+                                    Edit
+                                </a>
+                                <a class="btn btn-sm btn-danger"
+                                   asp-controller="MedicalRecord"
+                                   asp-action="Delete"
+                                   asp-route-id="@record.Id">
+                                    Delete
+                                </a>
+                            </td>
+                        </tr>
+                    }
+                }
+                else
+                {
+                    <tr>
+                        <td colspan="5" class="text-center">Nema medicinskih zapisa.</td>
+                    </tr>
+                }
+            </tbody>
+        </table>
+    </div>
+</div>

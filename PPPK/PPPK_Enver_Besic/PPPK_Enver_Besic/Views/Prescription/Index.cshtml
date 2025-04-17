@@ -1,0 +1,54 @@
+﻿@model IEnumerable<PPPK_Enver_Besic.Models.Prescription>
+
+@{
+    ViewData["Title"] = "Recepti";
+}
+
+<div class="row mb-3">
+    <div class="col-md-12">
+        <a class="btn btn-primary" asp-action="Create">Dodaj recept</a>
+    </div>
+</div>
+
+<div class="card">
+    <div class="card-header">
+        <h2 class="mb-0">Popis recepata</h2>
+    </div>
+    <div class="card-body p-0">
+        <table class="table table-striped table-bordered mb-0">
+            <thead class="thead-dark">
+                <tr>
+                    <th>Naziv lijeka</th>
+                    <th>Opis</th>
+                    <th>Datum propisivanja</th>
+                    <th>Pacijent</th>
+                    <th>Akcije</th>
+                </tr>
+            </thead>
+            <tbody>
+                @if (Model != null && Model.Any())
+                {
+                    foreach (var prescription in Model)
+                    {
+                        <tr>
+                            <td>@prescription.MedicationName</td>
+                            <td>@prescription.Description</td>
+                            <td>@prescription.DatePrescribed.ToShortDateString()</td>
+                            <td>@(prescription.Patient != null ? prescription.Patient.FirstName + " " + prescription.Patient.LastName : "N/A")</td>
+                            <td>
+                                <a class="btn btn-sm btn-warning" asp-controller="Prescription" asp-action="Edit" asp-route-id="@prescription.Id">Edit</a>
+                                <a class="btn btn-sm btn-danger" asp-controller="Prescription" asp-action="Delete" asp-route-id="@prescription.Id">Delete</a>
+                            </td>
+                        </tr>
+                    }
+                }
+                else
+                {
+                    <tr>
+                        <td colspan="5" class="text-center">Nema recepta.</td>
+                    </tr>
+                }
+            </tbody>
+        </table>
+    </div>
+</div>

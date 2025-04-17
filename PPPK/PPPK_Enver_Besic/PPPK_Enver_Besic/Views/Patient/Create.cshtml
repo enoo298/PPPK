@@ -1,0 +1,45 @@
+﻿@model PPPK_Enver_Besic.Models.Patient
+
+@{
+    ViewData["Title"] = "Dodaj pacijenta";
+}
+
+<h2 class="mb-4">@ViewData["Title"]</h2>
+
+<form asp-action="Create" method="post">
+    <div class="form-group">
+        <label asp-for="FirstName"></label>
+        <input asp-for="FirstName" class="form-control" />
+        <span asp-validation-for="FirstName" class="text-danger"></span>
+    </div>
+    <div class="form-group">
+        <label asp-for="LastName"></label>
+        <input asp-for="LastName" class="form-control" />
+        <span asp-validation-for="LastName" class="text-danger"></span>
+    </div>
+    <div class="form-group">
+        <label asp-for="OIB"></label>
+        <input asp-for="OIB" class="form-control" />
+        <span asp-validation-for="OIB" class="text-danger"></span>
+    </div>
+    <div class="form-group">
+        <label asp-for="DateOfBirth"></label>
+        <input asp-for="DateOfBirth" class="form-control" type="date" />
+        <span asp-validation-for="DateOfBirth" class="text-danger"></span>
+    </div>
+    <div class="form-group">
+        <label asp-for="Gender"></label>
+        <select asp-for="Gender" class="form-control">
+            <option value="">Odaberite spol</option>
+            <option value="Muški">Muški</option>
+            <option value="Ženski">Ženski</option>
+        </select>
+        <span asp-validation-for="Gender" class="text-danger"></span>
+    </div>
+    <button type="submit" class="btn btn-primary">Spremi</button>
+    <a asp-action="Index" asp-controller="Home" class="btn btn-secondary ml-2">Odustani</a>
+</form>
+
+@section Scripts {
+    <partial name="_ValidationScriptsPartial" />
+}

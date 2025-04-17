@@ -1,0 +1,377 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\enoo\\Desktop\\PPPK\\PPPK_Enver_Besic\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E1DF70AD-961E-4515-8095-32C223F31CFA}|PPPK_Enver_Besic\\PPPK_Enver_Besic.csproj|C:\\Users\\enoo\\Desktop\\PPPK\\PPPK_Enver_Besic\\pppk_enver_besic\\controllers\\examinationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1DF70AD-961E-4515-8095-32C223F31CFA}|PPPK_Enver_Besic\\PPPK_Enver_Besic.csproj|solutionrelative:pppk_enver_besic\\controllers\\examinationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1DF70AD-961E-4515-8095-32C223F31CFA}|PPPK_Enver_Besic\\PPPK_Enver_Besic.csproj|C:\\Users\\enoo\\Desktop\\PPPK\\PPPK_Enver_Besic\\pppk_enver_besic\\controllers\\medicalrecordcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1DF70AD-961E-4515-8095-32C223F31CFA}|PPPK_Enver_Besic\\PPPK_Enver_Besic.csproj|solutionrelative:pppk_enver_besic\\controllers\\medicalrecordcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1DF70AD-961E-4515-8095-32C223F31CFA}|PPPK_Enver_Besic\\PPPK_Enver_Besic.csproj|C:\\Users\\enoo\\Desktop\\PPPK\\PPPK_Enver_Besic\\pppk_enver_besic\\controllers\\patientcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1DF70AD-961E-4515-8095-32C223F31CFA}|PPPK_Enver_Besic\\PPPK_Enver_Besic.csproj|solutionrelative:pppk_enver_besic\\controllers\\patientcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1DF70AD-961E-4515-8095-32C223F31CFA}|PPPK_Enver_Besic\\PPPK_Enver_Besic.csproj|C:\\Users\\enoo\\Desktop\\PPPK\\PPPK_Enver_Besic\\pppk_enver_besic\\controllers\\prescriptioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1DF70AD-961E-4515-8095-32C223F31CFA}|PPPK_Enver_Besic\\PPPK_Enver_Besic.csproj|solutionrelative:pppk_enver_besic\\controllers\\prescriptioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1DF70AD-961E-4515-8095-32C223F31CFA}|PPPK_Enver_Besic\\PPPK_Enver_Besic.csproj|c:\\users\\enoo\\desktop\\pppk\\pppk_enver_besic\\pppk_enver_besic\\repositories\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1DF70AD-961E-4515-8095-32C223F31CFA}|PPPK_Enver_Besic\\PPPK_Enver_Besic.csproj|solutionrelative:pppk_enver_besic\\repositories\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1DF70AD-961E-4515-8095-32C223F31CFA}|PPPK_Enver_Besic\\PPPK_Enver_Besic.csproj|C:\\Users\\enoo\\Desktop\\PPPK\\PPPK_Enver_Besic\\pppk_enver_besic\\repositories\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1DF70AD-961E-4515-8095-32C223F31CFA}|PPPK_Enver_Besic\\PPPK_Enver_Besic.csproj|solutionrelative:pppk_enver_besic\\repositories\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1DF70AD-961E-4515-8095-32C223F31CFA}|PPPK_Enver_Besic\\PPPK_Enver_Besic.csproj|C:\\Users\\enoo\\Desktop\\PPPK\\PPPK_Enver_Besic\\pppk_enver_besic\\repositories\\repositoryfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1DF70AD-961E-4515-8095-32C223F31CFA}|PPPK_Enver_Besic\\PPPK_Enver_Besic.csproj|solutionrelative:pppk_enver_besic\\repositories\\repositoryfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1DF70AD-961E-4515-8095-32C223F31CFA}|PPPK_Enver_Besic\\PPPK_Enver_Besic.csproj|C:\\Users\\enoo\\Desktop\\PPPK\\PPPK_Enver_Besic\\pppk_enver_besic\\repositories\\irepositoryfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1DF70AD-961E-4515-8095-32C223F31CFA}|PPPK_Enver_Besic\\PPPK_Enver_Besic.csproj|solutionrelative:pppk_enver_besic\\repositories\\irepositoryfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1DF70AD-961E-4515-8095-32C223F31CFA}|PPPK_Enver_Besic\\PPPK_Enver_Besic.csproj|C:\\Users\\enoo\\Desktop\\PPPK\\PPPK_Enver_Besic\\pppk_enver_besic\\views\\examination\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E1DF70AD-961E-4515-8095-32C223F31CFA}|PPPK_Enver_Besic\\PPPK_Enver_Besic.csproj|solutionrelative:pppk_enver_besic\\views\\examination\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1DF70AD-961E-4515-8095-32C223F31CFA}|PPPK_Enver_Besic\\PPPK_Enver_Besic.csproj|C:\\Users\\enoo\\Desktop\\PPPK\\PPPK_Enver_Besic\\pppk_enver_besic\\views\\examination\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E1DF70AD-961E-4515-8095-32C223F31CFA}|PPPK_Enver_Besic\\PPPK_Enver_Besic.csproj|solutionrelative:pppk_enver_besic\\views\\examination\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1DF70AD-961E-4515-8095-32C223F31CFA}|PPPK_Enver_Besic\\PPPK_Enver_Besic.csproj|C:\\Users\\enoo\\Desktop\\PPPK\\PPPK_Enver_Besic\\pppk_enver_besic\\views\\examination\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E1DF70AD-961E-4515-8095-32C223F31CFA}|PPPK_Enver_Besic\\PPPK_Enver_Besic.csproj|solutionrelative:pppk_enver_besic\\views\\examination\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1DF70AD-961E-4515-8095-32C223F31CFA}|PPPK_Enver_Besic\\PPPK_Enver_Besic.csproj|C:\\Users\\enoo\\Desktop\\PPPK\\PPPK_Enver_Besic\\pppk_enver_besic\\views\\medicalrecord\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E1DF70AD-961E-4515-8095-32C223F31CFA}|PPPK_Enver_Besic\\PPPK_Enver_Besic.csproj|solutionrelative:pppk_enver_besic\\views\\medicalrecord\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1DF70AD-961E-4515-8095-32C223F31CFA}|PPPK_Enver_Besic\\PPPK_Enver_Besic.csproj|C:\\Users\\enoo\\Desktop\\PPPK\\PPPK_Enver_Besic\\pppk_enver_besic\\views\\patient\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E1DF70AD-961E-4515-8095-32C223F31CFA}|PPPK_Enver_Besic\\PPPK_Enver_Besic.csproj|solutionrelative:pppk_enver_besic\\views\\patient\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1DF70AD-961E-4515-8095-32C223F31CFA}|PPPK_Enver_Besic\\PPPK_Enver_Besic.csproj|C:\\Users\\enoo\\Desktop\\PPPK\\PPPK_Enver_Besic\\pppk_enver_besic\\views\\medicalrecord\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E1DF70AD-961E-4515-8095-32C223F31CFA}|PPPK_Enver_Besic\\PPPK_Enver_Besic.csproj|solutionrelative:pppk_enver_besic\\views\\medicalrecord\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1DF70AD-961E-4515-8095-32C223F31CFA}|PPPK_Enver_Besic\\PPPK_Enver_Besic.csproj|C:\\Users\\enoo\\Desktop\\PPPK\\PPPK_Enver_Besic\\pppk_enver_besic\\views\\medicalrecord\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E1DF70AD-961E-4515-8095-32C223F31CFA}|PPPK_Enver_Besic\\PPPK_Enver_Besic.csproj|solutionrelative:pppk_enver_besic\\views\\medicalrecord\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1DF70AD-961E-4515-8095-32C223F31CFA}|PPPK_Enver_Besic\\PPPK_Enver_Besic.csproj|C:\\Users\\enoo\\Desktop\\PPPK\\PPPK_Enver_Besic\\pppk_enver_besic\\views\\patient\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E1DF70AD-961E-4515-8095-32C223F31CFA}|PPPK_Enver_Besic\\PPPK_Enver_Besic.csproj|solutionrelative:pppk_enver_besic\\views\\patient\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1DF70AD-961E-4515-8095-32C223F31CFA}|PPPK_Enver_Besic\\PPPK_Enver_Besic.csproj|C:\\Users\\enoo\\Desktop\\PPPK\\PPPK_Enver_Besic\\pppk_enver_besic\\views\\patient\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E1DF70AD-961E-4515-8095-32C223F31CFA}|PPPK_Enver_Besic\\PPPK_Enver_Besic.csproj|solutionrelative:pppk_enver_besic\\views\\patient\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1DF70AD-961E-4515-8095-32C223F31CFA}|PPPK_Enver_Besic\\PPPK_Enver_Besic.csproj|C:\\Users\\enoo\\Desktop\\PPPK\\PPPK_Enver_Besic\\pppk_enver_besic\\views\\prescription\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E1DF70AD-961E-4515-8095-32C223F31CFA}|PPPK_Enver_Besic\\PPPK_Enver_Besic.csproj|solutionrelative:pppk_enver_besic\\views\\prescription\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1DF70AD-961E-4515-8095-32C223F31CFA}|PPPK_Enver_Besic\\PPPK_Enver_Besic.csproj|C:\\Users\\enoo\\Desktop\\PPPK\\PPPK_Enver_Besic\\pppk_enver_besic\\views\\prescription\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E1DF70AD-961E-4515-8095-32C223F31CFA}|PPPK_Enver_Besic\\PPPK_Enver_Besic.csproj|solutionrelative:pppk_enver_besic\\views\\prescription\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1DF70AD-961E-4515-8095-32C223F31CFA}|PPPK_Enver_Besic\\PPPK_Enver_Besic.csproj|C:\\Users\\enoo\\Desktop\\PPPK\\PPPK_Enver_Besic\\pppk_enver_besic\\views\\prescription\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E1DF70AD-961E-4515-8095-32C223F31CFA}|PPPK_Enver_Besic\\PPPK_Enver_Besic.csproj|solutionrelative:pppk_enver_besic\\views\\prescription\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1DF70AD-961E-4515-8095-32C223F31CFA}|PPPK_Enver_Besic\\PPPK_Enver_Besic.csproj|C:\\Users\\enoo\\Desktop\\PPPK\\PPPK_Enver_Besic\\pppk_enver_besic\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E1DF70AD-961E-4515-8095-32C223F31CFA}|PPPK_Enver_Besic\\PPPK_Enver_Besic.csproj|solutionrelative:pppk_enver_besic\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1DF70AD-961E-4515-8095-32C223F31CFA}|PPPK_Enver_Besic\\PPPK_Enver_Besic.csproj|C:\\Users\\enoo\\Desktop\\PPPK\\PPPK_Enver_Besic\\pppk_enver_besic\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E1DF70AD-961E-4515-8095-32C223F31CFA}|PPPK_Enver_Besic\\PPPK_Enver_Besic.csproj|solutionrelative:pppk_enver_besic\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 10,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Repository.cs",
+              "DocumentMoniker": "C:\\Users\\enoo\\Desktop\\PPPK\\PPPK_Enver_Besic\\PPPK_Enver_Besic\\Repositories\\Repository.cs",
+              "RelativeDocumentMoniker": "PPPK_Enver_Besic\\Repositories\\Repository.cs",
+              "ToolTip": "C:\\Users\\enoo\\Desktop\\PPPK\\PPPK_Enver_Besic\\PPPK_Enver_Besic\\Repositories\\Repository.cs",
+              "RelativeToolTip": "PPPK_Enver_Besic\\Repositories\\Repository.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAACgAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T17:48:52.203Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "RepositoryFactory.cs",
+              "DocumentMoniker": "C:\\Users\\enoo\\Desktop\\PPPK\\PPPK_Enver_Besic\\PPPK_Enver_Besic\\Repositories\\RepositoryFactory.cs",
+              "RelativeDocumentMoniker": "PPPK_Enver_Besic\\Repositories\\RepositoryFactory.cs",
+              "ToolTip": "C:\\Users\\enoo\\Desktop\\PPPK\\PPPK_Enver_Besic\\PPPK_Enver_Besic\\Repositories\\RepositoryFactory.cs",
+              "RelativeToolTip": "PPPK_Enver_Besic\\Repositories\\RepositoryFactory.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T17:47:49.237Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IRepositoryFactory.cs",
+              "DocumentMoniker": "C:\\Users\\enoo\\Desktop\\PPPK\\PPPK_Enver_Besic\\PPPK_Enver_Besic\\Repositories\\IRepositoryFactory.cs",
+              "RelativeDocumentMoniker": "PPPK_Enver_Besic\\Repositories\\IRepositoryFactory.cs",
+              "ToolTip": "C:\\Users\\enoo\\Desktop\\PPPK\\PPPK_Enver_Besic\\PPPK_Enver_Besic\\Repositories\\IRepositoryFactory.cs",
+              "RelativeToolTip": "PPPK_Enver_Besic\\Repositories\\IRepositoryFactory.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T17:46:50.353Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IRepository.cs",
+              "DocumentMoniker": "C:\\Users\\enoo\\Desktop\\PPPK\\PPPK_Enver_Besic\\PPPK_Enver_Besic\\Repositories\\IRepository.cs",
+              "RelativeDocumentMoniker": "PPPK_Enver_Besic\\Repositories\\IRepository.cs",
+              "ToolTip": "C:\\Users\\enoo\\Desktop\\PPPK\\PPPK_Enver_Besic\\PPPK_Enver_Besic\\Repositories\\IRepository.cs",
+              "RelativeToolTip": "PPPK_Enver_Besic\\Repositories\\IRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T17:46:38.572Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\enoo\\Desktop\\PPPK\\PPPK_Enver_Besic\\PPPK_Enver_Besic\\Views\\Examination\\Delete.cshtml",
+              "RelativeDocumentMoniker": "PPPK_Enver_Besic\\Views\\Examination\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\enoo\\Desktop\\PPPK\\PPPK_Enver_Besic\\PPPK_Enver_Besic\\Views\\Examination\\Delete.cshtml",
+              "RelativeToolTip": "PPPK_Enver_Besic\\Views\\Examination\\Delete.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-02T02:12:27.851Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\enoo\\Desktop\\PPPK\\PPPK_Enver_Besic\\PPPK_Enver_Besic\\Views\\Examination\\Edit.cshtml",
+              "RelativeDocumentMoniker": "PPPK_Enver_Besic\\Views\\Examination\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\enoo\\Desktop\\PPPK\\PPPK_Enver_Besic\\PPPK_Enver_Besic\\Views\\Examination\\Edit.cshtml",
+              "RelativeToolTip": "PPPK_Enver_Besic\\Views\\Examination\\Edit.cshtml",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAqwCkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-02T02:12:09.486Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\enoo\\Desktop\\PPPK\\PPPK_Enver_Besic\\PPPK_Enver_Besic\\Views\\Examination\\Index.cshtml",
+              "RelativeDocumentMoniker": "PPPK_Enver_Besic\\Views\\Examination\\Index.cshtml",
+              "ToolTip": "C:\\Users\\enoo\\Desktop\\PPPK\\PPPK_Enver_Besic\\PPPK_Enver_Besic\\Views\\Examination\\Index.cshtml",
+              "RelativeToolTip": "PPPK_Enver_Besic\\Views\\Examination\\Index.cshtml",
+              "ViewState": "AQIAABsAAAAAAAAAAAAqwEIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-02T02:11:39.626Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\enoo\\Desktop\\PPPK\\PPPK_Enver_Besic\\PPPK_Enver_Besic\\Views\\MedicalRecord\\Index.cshtml",
+              "RelativeDocumentMoniker": "PPPK_Enver_Besic\\Views\\MedicalRecord\\Index.cshtml",
+              "ToolTip": "C:\\Users\\enoo\\Desktop\\PPPK\\PPPK_Enver_Besic\\PPPK_Enver_Besic\\Views\\MedicalRecord\\Index.cshtml",
+              "RelativeToolTip": "PPPK_Enver_Besic\\Views\\MedicalRecord\\Index.cshtml",
+              "ViewState": "AQIAABsAAAAAAAAAAAAqwEIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-02T02:10:07.486Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\enoo\\Desktop\\PPPK\\PPPK_Enver_Besic\\PPPK_Enver_Besic\\Views\\MedicalRecord\\Delete.cshtml",
+              "RelativeDocumentMoniker": "PPPK_Enver_Besic\\Views\\MedicalRecord\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\enoo\\Desktop\\PPPK\\PPPK_Enver_Besic\\PPPK_Enver_Besic\\Views\\MedicalRecord\\Delete.cshtml",
+              "RelativeToolTip": "PPPK_Enver_Besic\\Views\\MedicalRecord\\Delete.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-02T02:09:44.074Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\enoo\\Desktop\\PPPK\\PPPK_Enver_Besic\\PPPK_Enver_Besic\\Views\\MedicalRecord\\Edit.cshtml",
+              "RelativeDocumentMoniker": "PPPK_Enver_Besic\\Views\\MedicalRecord\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\enoo\\Desktop\\PPPK\\PPPK_Enver_Besic\\PPPK_Enver_Besic\\Views\\MedicalRecord\\Edit.cshtml",
+              "RelativeToolTip": "PPPK_Enver_Besic\\Views\\MedicalRecord\\Edit.cshtml",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAqwCwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-02T02:09:32.778Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ExaminationController.cs",
+              "DocumentMoniker": "C:\\Users\\enoo\\Desktop\\PPPK\\PPPK_Enver_Besic\\PPPK_Enver_Besic\\Controllers\\ExaminationController.cs",
+              "RelativeDocumentMoniker": "PPPK_Enver_Besic\\Controllers\\ExaminationController.cs",
+              "ToolTip": "C:\\Users\\enoo\\Desktop\\PPPK\\PPPK_Enver_Besic\\PPPK_Enver_Besic\\Controllers\\ExaminationController.cs",
+              "RelativeToolTip": "PPPK_Enver_Besic\\Controllers\\ExaminationController.cs",
+              "ViewState": "AQIAADkAAAAAAAAAAAAuwE0AAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-02T02:07:39.035Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MedicalRecordController.cs",
+              "DocumentMoniker": "C:\\Users\\enoo\\Desktop\\PPPK\\PPPK_Enver_Besic\\PPPK_Enver_Besic\\Controllers\\MedicalRecordController.cs",
+              "RelativeDocumentMoniker": "PPPK_Enver_Besic\\Controllers\\MedicalRecordController.cs",
+              "ToolTip": "C:\\Users\\enoo\\Desktop\\PPPK\\PPPK_Enver_Besic\\PPPK_Enver_Besic\\Controllers\\MedicalRecordController.cs",
+              "RelativeToolTip": "PPPK_Enver_Besic\\Controllers\\MedicalRecordController.cs",
+              "ViewState": "AQIAAGcAAAAAAAAAAAAuwH0AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-02T02:07:20.249Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\enoo\\Desktop\\PPPK\\PPPK_Enver_Besic\\PPPK_Enver_Besic\\Views\\Patient\\Details.cshtml",
+              "RelativeDocumentMoniker": "PPPK_Enver_Besic\\Views\\Patient\\Details.cshtml",
+              "ToolTip": "C:\\Users\\enoo\\Desktop\\PPPK\\PPPK_Enver_Besic\\PPPK_Enver_Besic\\Views\\Patient\\Details.cshtml",
+              "RelativeToolTip": "PPPK_Enver_Besic\\Views\\Patient\\Details.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-02T02:06:34.019Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\enoo\\Desktop\\PPPK\\PPPK_Enver_Besic\\PPPK_Enver_Besic\\Views\\Prescription\\Delete.cshtml",
+              "RelativeDocumentMoniker": "PPPK_Enver_Besic\\Views\\Prescription\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\enoo\\Desktop\\PPPK\\PPPK_Enver_Besic\\PPPK_Enver_Besic\\Views\\Prescription\\Delete.cshtml",
+              "RelativeToolTip": "PPPK_Enver_Besic\\Views\\Prescription\\Delete.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-02T02:06:08.694Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\enoo\\Desktop\\PPPK\\PPPK_Enver_Besic\\PPPK_Enver_Besic\\Views\\Prescription\\Edit.cshtml",
+              "RelativeDocumentMoniker": "PPPK_Enver_Besic\\Views\\Prescription\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\enoo\\Desktop\\PPPK\\PPPK_Enver_Besic\\PPPK_Enver_Besic\\Views\\Prescription\\Edit.cshtml",
+              "RelativeToolTip": "PPPK_Enver_Besic\\Views\\Prescription\\Edit.cshtml",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAqwC0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-02T02:05:55.35Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\enoo\\Desktop\\PPPK\\PPPK_Enver_Besic\\PPPK_Enver_Besic\\Views\\Prescription\\Index.cshtml",
+              "RelativeDocumentMoniker": "PPPK_Enver_Besic\\Views\\Prescription\\Index.cshtml",
+              "ToolTip": "C:\\Users\\enoo\\Desktop\\PPPK\\PPPK_Enver_Besic\\PPPK_Enver_Besic\\Views\\Prescription\\Index.cshtml",
+              "RelativeToolTip": "PPPK_Enver_Besic\\Views\\Prescription\\Index.cshtml",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAswDYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-02T02:04:11.282Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PrescriptionController.cs",
+              "DocumentMoniker": "C:\\Users\\enoo\\Desktop\\PPPK\\PPPK_Enver_Besic\\PPPK_Enver_Besic\\Controllers\\PrescriptionController.cs",
+              "RelativeDocumentMoniker": "PPPK_Enver_Besic\\Controllers\\PrescriptionController.cs",
+              "ToolTip": "C:\\Users\\enoo\\Desktop\\PPPK\\PPPK_Enver_Besic\\PPPK_Enver_Besic\\Controllers\\PrescriptionController.cs",
+              "RelativeToolTip": "PPPK_Enver_Besic\\Controllers\\PrescriptionController.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAuwIAAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-02T02:02:59.739Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\enoo\\Desktop\\PPPK\\PPPK_Enver_Besic\\PPPK_Enver_Besic\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "PPPK_Enver_Besic\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\enoo\\Desktop\\PPPK\\PPPK_Enver_Besic\\PPPK_Enver_Besic\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "PPPK_Enver_Besic\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAABwAAAAAAAAAAAAswEUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-02T02:00:43.202Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "C:\\Users\\enoo\\Desktop\\PPPK\\PPPK_Enver_Besic\\PPPK_Enver_Besic\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "PPPK_Enver_Besic\\Views\\Home\\Privacy.cshtml",
+              "ToolTip": "C:\\Users\\enoo\\Desktop\\PPPK\\PPPK_Enver_Besic\\PPPK_Enver_Besic\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "PPPK_Enver_Besic\\Views\\Home\\Privacy.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-02T02:00:42.572Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\enoo\\Desktop\\PPPK\\PPPK_Enver_Besic\\PPPK_Enver_Besic\\Views\\Patient\\Delete.cshtml",
+              "RelativeDocumentMoniker": "PPPK_Enver_Besic\\Views\\Patient\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\enoo\\Desktop\\PPPK\\PPPK_Enver_Besic\\PPPK_Enver_Besic\\Views\\Patient\\Delete.cshtml",
+              "RelativeToolTip": "PPPK_Enver_Besic\\Views\\Patient\\Delete.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-02T01:58:02.942Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\enoo\\Desktop\\PPPK\\PPPK_Enver_Besic\\PPPK_Enver_Besic\\Views\\Patient\\Edit.cshtml",
+              "RelativeDocumentMoniker": "PPPK_Enver_Besic\\Views\\Patient\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\enoo\\Desktop\\PPPK\\PPPK_Enver_Besic\\PPPK_Enver_Besic\\Views\\Patient\\Edit.cshtml",
+              "RelativeToolTip": "PPPK_Enver_Besic\\Views\\Patient\\Edit.cshtml",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAqwC4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-02T01:57:42.497Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PatientController.cs",
+              "DocumentMoniker": "C:\\Users\\enoo\\Desktop\\PPPK\\PPPK_Enver_Besic\\PPPK_Enver_Besic\\Controllers\\PatientController.cs",
+              "RelativeDocumentMoniker": "PPPK_Enver_Besic\\Controllers\\PatientController.cs",
+              "ToolTip": "C:\\Users\\enoo\\Desktop\\PPPK\\PPPK_Enver_Besic\\PPPK_Enver_Besic\\Controllers\\PatientController.cs",
+              "RelativeToolTip": "PPPK_Enver_Besic\\Controllers\\PatientController.cs",
+              "ViewState": "AQIAAG8AAAAAAAAAAAAuwKEAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-02T01:56:52.268Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

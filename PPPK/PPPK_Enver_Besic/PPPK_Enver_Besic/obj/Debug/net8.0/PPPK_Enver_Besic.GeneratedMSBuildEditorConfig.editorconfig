@@ -1,0 +1,119 @@
+is_global = true
+build_property.TargetFramework = net8.0
+build_property.TargetFramework = net8.0
+build_property.TargetPlatformMinVersion = 
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = PPPK_Enver_Besic
+build_property.RootNamespace = PPPK_Enver_Besic
+build_property.ProjectDir = C:\Users\enoo\Desktop\PPPK\PPPK_Enver_Besic\PPPK_Enver_Besic\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 8.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\enoo\Desktop\PPPK\PPPK_Enver_Besic\PPPK_Enver_Besic
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/enoo/Desktop/PPPK/PPPK_Enver_Besic/PPPK_Enver_Besic/Views/Examination/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRXhhbWluYXRpb25cQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/enoo/Desktop/PPPK/PPPK_Enver_Besic/PPPK_Enver_Besic/Views/Examination/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRXhhbWluYXRpb25cRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/enoo/Desktop/PPPK/PPPK_Enver_Besic/PPPK_Enver_Besic/Views/Examination/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRXhhbWluYXRpb25cRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/enoo/Desktop/PPPK/PPPK_Enver_Besic/PPPK_Enver_Besic/Views/Examination/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRXhhbWluYXRpb25cSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/enoo/Desktop/PPPK/PPPK_Enver_Besic/PPPK_Enver_Besic/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/enoo/Desktop/PPPK/PPPK_Enver_Besic/PPPK_Enver_Besic/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/enoo/Desktop/PPPK/PPPK_Enver_Besic/PPPK_Enver_Besic/Views/MedicalRecord/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWVkaWNhbFJlY29yZFxDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/enoo/Desktop/PPPK/PPPK_Enver_Besic/PPPK_Enver_Besic/Views/MedicalRecord/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWVkaWNhbFJlY29yZFxEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/enoo/Desktop/PPPK/PPPK_Enver_Besic/PPPK_Enver_Besic/Views/MedicalRecord/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWVkaWNhbFJlY29yZFxFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/enoo/Desktop/PPPK/PPPK_Enver_Besic/PPPK_Enver_Besic/Views/MedicalRecord/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWVkaWNhbFJlY29yZFxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/enoo/Desktop/PPPK/PPPK_Enver_Besic/PPPK_Enver_Besic/Views/Patient/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGF0aWVudFxDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/enoo/Desktop/PPPK/PPPK_Enver_Besic/PPPK_Enver_Besic/Views/Patient/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGF0aWVudFxEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/enoo/Desktop/PPPK/PPPK_Enver_Besic/PPPK_Enver_Besic/Views/Patient/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGF0aWVudFxEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/enoo/Desktop/PPPK/PPPK_Enver_Besic/PPPK_Enver_Besic/Views/Patient/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGF0aWVudFxFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/enoo/Desktop/PPPK/PPPK_Enver_Besic/PPPK_Enver_Besic/Views/Prescription/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJlc2NyaXB0aW9uXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/enoo/Desktop/PPPK/PPPK_Enver_Besic/PPPK_Enver_Besic/Views/Prescription/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJlc2NyaXB0aW9uXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/enoo/Desktop/PPPK/PPPK_Enver_Besic/PPPK_Enver_Besic/Views/Prescription/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJlc2NyaXB0aW9uXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/enoo/Desktop/PPPK/PPPK_Enver_Besic/PPPK_Enver_Besic/Views/Prescription/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJlc2NyaXB0aW9uXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/enoo/Desktop/PPPK/PPPK_Enver_Besic/PPPK_Enver_Besic/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/enoo/Desktop/PPPK/PPPK_Enver_Besic/PPPK_Enver_Besic/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/enoo/Desktop/PPPK/PPPK_Enver_Besic/PPPK_Enver_Besic/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/enoo/Desktop/PPPK/PPPK_Enver_Besic/PPPK_Enver_Besic/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/enoo/Desktop/PPPK/PPPK_Enver_Besic/PPPK_Enver_Besic/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-7uuwcf4cnt

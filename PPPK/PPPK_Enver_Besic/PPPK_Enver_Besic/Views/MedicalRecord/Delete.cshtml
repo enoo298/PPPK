@@ -1,0 +1,29 @@
+﻿@model PPPK_Enver_Besic.Models.MedicalRecord
+
+@{
+    ViewData["Title"] = "Obriši medicinski zapis";
+}
+
+<h2>@ViewData["Title"]</h2>
+
+<div class="alert alert-warning">
+    Jeste li sigurni da želite obrisati ovaj medicinski zapis za bolest: <strong>@Model.IllnessName</strong>?
+</div>
+
+<div class="mb-3">
+    <p><strong>Datum početka:</strong> @Model.StartDate.ToShortDateString()</p>
+    <p>
+        <strong>Datum završetka:</strong>
+        @(Model.EndDate.HasValue ? Model.EndDate.Value.ToShortDateString() : "Aktivan")
+    </p>
+    <p>
+        <strong>Pacijent:</strong>
+        @(Model.Patient != null ? Model.Patient.FirstName + " " + Model.Patient.LastName : "N/A")
+    </p>
+</div>
+
+<form asp-action="Delete" method="post">
+    <input type="hidden" asp-for="Id" />
+    <button type="submit" class="btn btn-danger">Da, obriši</button>
+    <a asp-action="Index" class="btn btn-secondary ml-2">Odustani</a>
+</form>

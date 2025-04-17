@@ -1,0 +1,38 @@
+﻿@model PPPK_Enver_Besic.Models.Prescription
+
+@{
+    ViewData["Title"] = "Dodaj recept";
+}
+
+<h2>@ViewData["Title"]</h2>
+
+<form asp-action="Create" method="post">
+    <div class="form-group">
+        <label asp-for="MedicationName"></label>
+        <input asp-for="MedicationName" class="form-control" />
+        <span asp-validation-for="MedicationName" class="text-danger"></span>
+    </div>
+    <div class="form-group">
+        <label asp-for="Description"></label>
+        <input asp-for="Description" class="form-control" />
+        <span asp-validation-for="Description" class="text-danger"></span>
+    </div>
+    <div class="form-group">
+        <label asp-for="DatePrescribed"></label>
+        <input asp-for="DatePrescribed" class="form-control" type="date" />
+        <span asp-validation-for="DatePrescribed" class="text-danger"></span>
+    </div>
+    <div class="form-group">
+        <label for="PatientId">Pacijent</label>
+        <select asp-for="PatientId" class="form-control" asp-items="ViewBag.Patients">
+            <option value="">Odaberite pacijenta</option>
+        </select>
+        <span asp-validation-for="PatientId" class="text-danger"></span>
+    </div>
+    <button type="submit" class="btn btn-primary">Spremi</button>
+    <a asp-action="Index" class="btn btn-secondary ml-2">Odustani</a>
+</form>
+
+@section Scripts {
+    <partial name="_ValidationScriptsPartial" />
+}

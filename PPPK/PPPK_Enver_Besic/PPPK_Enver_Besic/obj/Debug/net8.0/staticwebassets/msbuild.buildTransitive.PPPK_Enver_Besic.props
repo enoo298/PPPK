@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\PPPK_Enver_Besic.props" />
+</Project>

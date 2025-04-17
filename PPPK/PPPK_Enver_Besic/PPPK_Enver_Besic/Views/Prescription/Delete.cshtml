@@ -1,0 +1,23 @@
+﻿@model PPPK_Enver_Besic.Models.Prescription
+
+@{
+    ViewData["Title"] = "Obriši recept";
+}
+
+<h2>@ViewData["Title"]</h2>
+
+<div class="alert alert-warning">
+    Jeste li sigurni da želite obrisati recept: <strong>@Model.MedicationName</strong>?
+</div>
+
+<div class="mb-3">
+    <p><strong>Opis:</strong> @Model.Description</p>
+    <p><strong>Datum propisivanja:</strong> @Model.DatePrescribed.ToShortDateString()</p>
+    <p><strong>Pacijent:</strong> @(Model.Patient != null ? Model.Patient.FirstName + " " + Model.Patient.LastName : "N/A")</p>
+</div>
+
+<form asp-action="Delete" method="post">
+    <input type="hidden" asp-for="Id" />
+    <button type="submit" class="btn btn-danger">Da, obriši</button>
+    <a asp-action="Index" class="btn btn-secondary ml-2">Odustani</a>
+</form>

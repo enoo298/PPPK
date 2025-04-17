@@ -1,0 +1,107 @@
+﻿@model PPPK_Enver_Besic.Models.Patient
+
+@{
+    ViewData["Title"] = "Detalji pacijenta";
+}
+
+<div class="mb-3">
+    <a class="btn btn-secondary" asp-action="Index" asp-controller="Home">Nazad</a>
+    <a class="btn btn-primary" asp-action="ExportDetails" asp-route-id="@Model.Id">Izvoz u CSV</a>
+</div>
+
+<h2>Detalji pacijenta</h2>
+
+<div class="card mb-3">
+    <div class="card-header">
+        Osnovni podaci
+    </div>
+    <div class="card-body">
+        <p><strong>Ime:</strong> @Model.FirstName</p>
+        <p><strong>Prezime:</strong> @Model.LastName</p>
+        <p><strong>OIB:</strong> @Model.OIB</p>
+        <p><strong>Datum rođenja:</strong> @Model.DateOfBirth.ToShortDateString()</p>
+        <p><strong>Spol:</strong> @Model.Gender</p>
+    </div>
+</div>
+
+@if (Model.MedicalRecords != null && Model.MedicalRecords.Any())
+{
+    <div class="card mb-3">
+        <div class="card-header">Medicinska dokumentacija</div>
+        <div class="card-body">
+            <table class="table table-striped">
+                <thead>
+                    <tr>
+                        <th>Naziv bolesti</th>
+                        <th>Datum početka</th>
+                        <th>Datum završetka</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    @foreach (var record in Model.MedicalRecords)
+                    {
+                        <tr>
+                            <td>@record.IllnessName</td>
+                            <td>@record.StartDate.ToShortDateString()</td>
+                            <td>@(record.EndDate.HasValue ? record.EndDate.Value.ToShortDateString() : "Aktivna")</td>
+                        </tr>
+                    }
+                </tbody>
+            </table>
+        </div>
+    </div>
+}
+
+@if (Model.Examinations != null && Model.Examinations.Any())
+{
+    <div class="card mb-3">
+        <div class="card-header">Pregledi</div>
+        <div class="card-body">
+            <table class="table table-striped">
+                <thead>
+                    <tr>
+                        <th>Datum i vrijeme</th>
+                        <th>Tip pregleda</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    @foreach (var exam in Model.Examinations)
+                    {
+                        <tr>
+                            <td>@exam.ExaminationDateTime</td>
+                            <td>@exam.ExaminationType</td>
+                        </tr>
+                    }
+                </tbody>
+            </table>
+        </div>
+    </div>
+}
+
+@if (Model.Prescriptions != null && Model.Prescriptions.Any())
+{
+    <div class="card mb-3">
+        <div class="card-header">Recepti</div>
+        <div class="card-body">
+            <table class="table table-striped">
+                <thead>
+                    <tr>
+                        <th>Naziv lijeka</th>
+                        <th>Opis</th>
+                        <th>Datum propisivanja</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    @foreach (var pres in Model.Prescriptions)
+                    {
+                        <tr>
+                            <td>@pres.MedicationName</td>
+                            <td>@pres.Description</td>
+                            <td>@pres.DatePrescribed.ToShortDateString()</td>
+                        </tr>
+                    }
+                </tbody>
+            </table>
+        </div>
+    </div>
+}

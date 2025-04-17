@@ -1,0 +1,17 @@
+﻿@model PPPK_Enver_Besic.Models.Patient
+
+@{
+    ViewData["Title"] = "Obriši pacijenta";
+}
+
+<h2>@ViewData["Title"]</h2>
+
+<div class="alert alert-warning">
+    Jeste li sigurni da želite obrisati ovog pacijenta: <strong>@Model.FirstName @Model.LastName</strong>?
+</div>
+
+<form asp-action="Delete" method="post">
+    <input type="hidden" asp-for="Id" />
+    <button type="submit" class="btn btn-danger">Da, obriši</button>
+    <a asp-action="Index" asp-controller="Home" class="btn btn-secondary ml-2">Odustani</a>
+</form>
